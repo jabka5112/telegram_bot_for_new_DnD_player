@@ -6,7 +6,7 @@ from keyboards import ReplyKeyboardMarkup, KeyboardButton
 from character_creation import create_character, select_class, distribute_points, select_point, go_back_to_characteristics, finish_character_creation, select_backstory_type, write_backstory
 from keyboards import get_main_menu_keyboard
 
-API_TOKEN = '6749445836:AAF3BYbkaVuBvJP85Bau6Q5vZsQG5FlTAxg'
+API_TOKEN = 'YOUR_BOT_TOKEN'
 
 logging.basicConfig(level=logging.INFO)
 
